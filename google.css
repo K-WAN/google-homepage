@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10;
+}
+
+.nav {
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family:arial, sans-serif;
+    font-size:13px;
+  }
+
+.middle {
+  margin: auto;
+  width: 20%;
+  padding: 100;
+}
+
+.signin {
+  border: 1px solid #4285f4;
+  font-weight: bold;
+  background: -webkit-linear-gradient(top,#4387fd,#4683ea);  
+  background-image:-webkit-linear-gradient(top, rgb(67, 135, 253), rgb(70, 131, 234));    
+  color:rgb(255, 255, 255);    
+  height:28px;
+  line-height:28px;
+  outline-color:rgb(255, 255, 255);
+  outline-width:0px;
+  padding-bottom:0px;
+  padding-left:12px;
+  padding-right:12px;
+  padding-top:0px;
+}
